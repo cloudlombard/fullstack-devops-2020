@@ -276,3 +276,163 @@ git pull
 ls
 ping www.google.it
 exit
+docker containter stat
+docker container stat
+docker container ps
+docker container -a ps
+docker stat
+cd
+cd
+git pull
+cd exercise
+cd exercises
+ls
+cd esercizi
+ls
+cd docker
+cd ..
+cd ..
+git pull
+exit
+git pull
+cd esercizi
+cd docker
+cd 09
+nano Dockerfile
+docker build -t serve-html-page-using-nginx .
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano Dockerfile
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+nano Dockerfile
+./acceptance_test.sh
+cd ..
+cd 10
+nano Dockerfile
+nano up.sh
+docker build -t serve-js-page-using-node
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano .dockerignore
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano .dockerignore
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+nano .dockerignore
+docker build -t serve-js-page-using-node .
+nano .dockerignore
+docker build -t serve-js-page-using-node .
+nano .dockerignore
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+nano .dockerignore
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano Dockerfile
+nano .dockerignore
+rm .dockerignore
+docker build -t serve-js-page-using-node .
+exit
