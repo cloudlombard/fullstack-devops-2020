@@ -1,41 +1,3 @@
-docker container run hello-world
-ls
-ls
-ls
-image ls
-docker image ls
-docker container run alpine
-ls -a
-docker container run ls -l
-docker container run alpine ls -l
-docker container run alpine touch file.txt
-docker container -a
-docker container -a
-docker container -a
-docker container -a
---help
-help
-docker container run -it alpine /bin/bash
-docker container run -it alpine /bin/sh
-in
-ls
-docker container exec 2db29710123e -LS
-docker container ls
-docker container ls -a
-docker container exec 64a6e58e56c6 -LS
-docker container exec 64a6e58e56c6 -ls
-docker container start 64a6e58e56c6
-docker container exec 64a6e58e56c6 -ls
-docker container exec 64a6e58e56c6 ls
-docker container exec -it /bin/sh
-docker container exec -it t64a6e58e56c6 /bin/sh
-docker container exec -it 64a6e58e56c6 /bin/sh
-docker container -ls
-docker container ls
-mkdir module02
-cd module02
-nano index.js
-nano index.js
 var os = require("os");
 var hostname = os.hostname();
 console.log("hello from " + hostname);var os = require("os");
@@ -436,3 +398,103 @@ nano .dockerignore
 rm .dockerignore
 docker build -t serve-js-page-using-node .
 exit
+docker build -t serve-js-page-using-node .
+cd esercizi
+cd docker
+cd 10
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+nano up.sh
+./acceptance_test.sh
+./acceptance_test.sh
+nano up.sh
+./acceptance_test.sh
+nano Dockerfile
+cd ..
+cd ..
+cd ..
+git status
+git add .
+git commit -m "completamento dell'esercizio 09 e 5/7 tests passati dell'esercizio 10"
+git push
+git push git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+cd esercizi
+cd docker
+cd 10
+./acceptance_test.sh
+nano up.sh
+docker run -d -p 8080:3000 serve-js-page-using-node Claudio
+docker build -t serve-js-page-using-node .
+docker run -d -p 8080:3000 serve-js-page-using-node Claudio
+exit
+cd esercizi
+cd docker
+cd 10
+docker build -t serve-js-page-using-node .
+docker run -d -p 8080:3000 serve-js-page-using-node Claudio
+node index.js Claudio
+node server.js Claudio
+server.js Claudio
+Claudio
+docker ps
+docker container ls
+docker run -d -p 8080:3000 serve-js-page-using-node
+docker logs b1f8570545344e501bc2450ef2d7a4ef76d14bd07ad644b50e043356c9478c46
+docker ps
+docker exec -it b1f8570545344e501bc2450ef2d7a4ef76d14bd07ad644b50e043356c9478c46 /bin/bash
+curl -i localhost:3000
+docker container ls
+curl -i localhost:3000
+curl -i localhost:8080
+curl -i localhost:8080 CLAUDIO
+curl -i localhost:8080 "CLAUDIO"
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+docker run -d -p 8080:3000 serve-js-page-using-node
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+docker run -d -p 8080:3000 serve-js-page-using-node
+curl -i localhost:8080
+./acceptance_test.sh
+nano Dockerfile
+nano up.sh
+./acceptance_test.sh
+nano up.sh
+nano DOCKERFILE
+rm DOCKERFILE
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+./acceptance_test.sh
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+up.sh
+./up.sh
+docker container ls
+curl b1f857054534
+curl -i localhost:8080
+curl b1f857054534
+nano Dockerfile
+docker build -t serve-js-page-using-node .
+nano up.sh
+./acceptance_test.sh
+nano Dockerfile
