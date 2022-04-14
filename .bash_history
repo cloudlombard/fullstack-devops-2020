@@ -1,102 +1,3 @@
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git master
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git master
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git master
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git master
-git push --set-upstream https://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@github.com/cloudlombard/fullstack-devops-2020.git
-git push --set-upstream https://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@github.com/cloudlombard/fullstack-devops-2020.git master
-git push --set-upstream https://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@github.com/cloudlombard/fullstack-devops-2020.git master
-cd vagrant
-cd ..
-cd vagrant
-nano provisioner.sh
-cd ..
-cd esercizi
-git push --set-upstream https://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@github.com/cloudlombard/fullstack-devops-2020.git master
-git add .
-git commit -m "aggiunta nome"
-cd ..
-cd docker
-cd vagrant
-nano provisioner.sh
-cd ..
-git status
-cd docker
-cd vagrant
-nano provisioner.sh
-git status
-git add .
-git commit -m "aggiunto il mio nome"
-git push
-cd esercizi
-cd ..
-cd esercizi
-ls
-cd docker
-ls
-./acceptance_test-all.sh
-cd ..
-cd docker
-./acceptance_test-all.sh
-cd ..
-cd ..
-cd esercizi
-cd docker
-cd 04
-docker build -t esercizio-04 .
-docker run esercizio-04
-docker run esercizio-04 cappiello
-nano Dockerfile
-docker run esercizio-04 cappiello
-nano Dockerfile
-docker status
-docker container ls
-docker container ls -a
-docker run esercizio-04 "aina"
-docker run esercizio-04 node index.js "aina"
-docker run esercizio-04 node  "aina"
-docker container run esercizio-04 node  "aina"
-docker container run esercizio-04 node  index.js "aina"
-docker container run esercizio-04
-docker run esercizio-04
-docker run esercizio-04 
-docker run esercizio-04 node index.js "cappiello"
-docker run esercizio-04 
-node index.js "cappello"
-docker container ls
-docker container ls -a
-docker container run alpine time
-docker container run alpine
-time docker container run alpine
-mkdir prova
-cd proa
-cd prova
-nano Dockerfile
-docker image build -t prova:cmd .
-docker run prova:cmd
-nano Dockerfile
-docker image build -t prova:entrypoint .
-docker run prova:entrypoint
-nano Dockerfile
-rm Dockerfile
-nano Dockerfile
-rm Dockerfile
-..
-..
-.
-..
-..
-..
-..
-exit
-cd esercizi
-cd docker
-cd 05
-cd ..
-git pull
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-git pull 
 cd ..
 git pull
 cd esercizi
@@ -498,3 +399,102 @@ git push
 git add .
 git commit -m "aggiunta esercizio compose"
 git push
+ls
+cd esercizi
+ls
+cd compose
+ls
+cd compose-composition
+ls
+nano readme.txt
+cd ..
+cd ..
+cd ..
+git status
+git push
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git status
+git merge
+git remote add origin https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git remote -v
+git push
+git push
+git push
+git remote remove origin
+git remote add origin https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+LS
+ls
+git status
+ls
+git push origin
+git push origin
+git push 
+git push 
+git push 
+git push 
+git push -u
+git push 
+git push 
+git push
+git push
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git remote set-url origin https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push
+git push
+git pull
+git remote -v
+git push origin
+git push origin
+git status
+ls
+cd esercizi
+git status
+git add .
+git commit -m "aggiunta esercizio docker-compose"
+git push
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push --set-upstream https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git status
+git add .
+git commit -m "aggiunta esercizio docker-compose"
+git push https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git status
+cd ..
+git status
+ls
+cd esempi
+git status
+cd ..
+cd esercizi
+git status
+ls
+ls
+ls
+l
+ls
+bin bash
+-bash
+ls
+ls
+git status
+cd compose
+ls
+git status
+cd compose-composition
+ls
+git status
+cd ..
+cd ..
+git status
+git push
+git remote add origin https://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@github.com/cloudlombard/fullstack-devops-2020.git
+git push
+git push --set-upstream origin master
+git push --set-upstream origin master
+git status
+vagrant exit
+exit
