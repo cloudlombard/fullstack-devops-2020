@@ -1,85 +1,3 @@
-var os = require("os");
-var hostname = os.hostname();
-console.log("hello from " + hostname);var os = require("os");
-var hostname = os.hostname();
-console.log("hello from " + hostname);var os = require("os");
-var hostname = os.hostname();
-console.log("hello from " + hostname);var os = require("os");
-var hostname = os.hostname();
-console.log("hello from " + hostname);var os = require("os");
-var hostname = os.hostname();
-nano Dockerfile
-docker image build -t hello:v.0.1 .
-nano Dockerfile
-nano Dockerfile
-docker image build -t hello:v.0.1 .
-nano Dockerfile
-docker image build -t hello:v.0.1 .
-nano Dockerfile
-docker image build -t hello:v.0.1 .
-nano Dockerfile
-exit
-nano Dockerfile
-docker build -t -t esercizio-01 .
-docker build -t esercizio-01 .
-docker run esercizio-01
-docker run esercizio-01 factor 32
-./acceptance_test.sh
-nano Dockerfile
-docker run esercizio-01
-docker run esercizio-01 factor 32
-./acceptance.sh
-image ls
-docker container -a
-docker container ls
-docker container ls -a
-ls
-nano module02
-cd modulo02
-cd module02
-ls
-cd ..
-npm install --save npm-git-install
-git init
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-cd esercizi
-cd docker
-cd 01
-nano Dockerfile
-./acceptance_test.sh
-cd ..
-cd 02
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-cd ..
-cd 03
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-CD ..
-cd ..
-cd 04
-nano Dockerfile
-./acceptance_test.sh
-cd ../
-cd ..
-git status
-git add .
-git commit -m "esercizi"
-git push
-git push https://github.com/cloudlombard/fullstack-devops-2020.git
-git push origin https://github.com/cloudlombard/fullstack-devops-2020.git
-git push
-git push https://github.com/cloudlombard/fullstack-devops-2020.git
-git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git
 git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git
 git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git
 git push --set-upstream https://github.com/cloudlombard/fullstack-devops-2020.git master
@@ -498,3 +416,85 @@ docker build -t serve-js-page-using-node .
 nano up.sh
 ./acceptance_test.sh
 nano Dockerfile
+docker-compose -f docker-compose.yml -f docker-compose-log-infrastructure.yml up
+cd esempi
+cd esempi
+cd ..
+cd vagrant
+ls
+cd esercizi
+ls
+cd ..
+cd ..
+ls
+cd vagrant
+ls
+git pull
+ls
+cd esempi
+ls
+cd compose
+ls
+cd monitoring
+ls
+docker-compose -f docker-compose.yml -f docker-compose-log-infrastructure.yml up
+cd ..
+cd ..
+cd ..
+cd esercizi
+ls
+cd compose
+ls
+cd compose-composition
+ls
+nano docker-compose-local.yml
+nano docker-compose-test.yml
+nano docker-compose-prod.yml
+docker-compose -f docker-compose-local.yml up
+docker-compose -f docker-compose-prod.yml up
+nano docker-compose-local.yml
+docker-compose -f docker-compose-local.yml up
+npm install
+docker-compose -f docker-compose-local.yml up
+docker-compose -f docker-compose.yml -f docker-compose-log-infrastructure.yml up
+ls
+nano docker-compose-test.yml
+rm docker-compose-test.yml
+nano docker-compose-test.yml
+docker-compose -f docker-compose-test.yml up
+nano docker-compose-local.yml
+rm docker-compose-local.yml
+ dsadsa
+rm docker-compose-test.yml
+nano docker-compose-test.yml
+cls
+clear
+nano docker-compose-local.yml
+ls
+nano docker-compose.yml
+nano docker-compose-test.yml
+nano docker-compose-local.yml
+nano docker-compose-test.yml
+nano up.sh
+nano docker-compose-local.yml
+nano docker-compose-test.yml
+rm docker-compose-test.yml
+nano docker-compose-test.yml
+nano docker-compose-ports.yml
+nano up.sh
+nano docker-compose-ui.yml
+nano up.sh
+ls
+rm docker-compose-prod.yml
+git add .
+git commit -m "aggiunta esercizio compose"
+git push
+cd .
+cd ..
+cd ..
+cd ..
+git push
+git push
+git add .
+git commit -m "aggiunta esercizio compose"
+git push
