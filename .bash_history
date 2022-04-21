@@ -1,20 +1,5 @@
 docker build -t serve-js-page-using-node .
 nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
 nano .dockerignore
 rm .dockerignore
 docker build -t serve-js-page-using-node .
@@ -498,3 +483,18 @@ npm run dist
 npm run test:unit
 npm run component:test
 npm run test:component
+cd esercizi/microservices/CmykToHslConverter/
+cd ..
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+cd ..
+cd ..
+git add .
+git commit -m "aggiunta microservizio CmykToHslConverter"
+git push
+git push -f
+docker-compose up
+cd esercizi/microservices
+docker-compose up
