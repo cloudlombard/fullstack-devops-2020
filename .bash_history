@@ -1,25 +1,3 @@
-cd ..
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-cd esercizi
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-cd ..
-git init
-git pull
-git pull --f
-git pull --force
-git config --global --unset https.proxy
-git pull 
-git config --global --unset http.proxy
-git pull 
-git pull --force
-git status
-git pull
-ls
-ping www.google.it
-exit
-docker containter stat
-docker container stat
 docker container ps
 docker container -a ps
 docker stat
@@ -498,3 +476,25 @@ docker-compose up
 docker-compose up
 docker-compose up
 docker-compose up
+cddocker-compose
+cd esercizi/microservices
+docker-compose up
+docker-compose up
+ls
+cd HexToRgbConverter
+ls
+ts-node src/HttpServer.ts
+npm run start
+npm install
+npm run start
+npm run start
+ls
+npm run test
+npm run test:unit
+npm run start
+npm run test:unit
+npm run test:component
+npm run test:component
+npm run test:unit
+npm run test:component
+npm run start
