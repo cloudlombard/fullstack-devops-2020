@@ -1,140 +1,3 @@
-docker container ps
-docker container -a ps
-docker stat
-cd
-cd
-git pull
-cd exercise
-cd exercises
-ls
-cd esercizi
-ls
-cd docker
-cd ..
-cd ..
-git pull
-exit
-git pull
-cd esercizi
-cd docker
-cd 09
-nano Dockerfile
-docker build -t serve-html-page-using-nginx .
-nano up.sh
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano Dockerfile
-nano up.sh
-./acceptance_test.sh
-nano up.sh
-nano Dockerfile
-./acceptance_test.sh
-cd ..
-cd 10
-nano Dockerfile
-nano up.sh
-docker build -t serve-js-page-using-node
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano up.sh
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-nano Dockerfile
-./acceptance_test.sh
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano .dockerignore
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano .dockerignore
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-nano .dockerignore
-docker build -t serve-js-page-using-node .
-nano .dockerignore
-docker build -t serve-js-page-using-node .
-nano .dockerignore
-docker build -t serve-js-page-using-node .
-./acceptance_test.sh
-nano Dockerfile
-nano .dockerignore
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-docker build -t serve-js-page-using-node .
-nano Dockerfile
 docker build -t serve-js-page-using-node .
 nano Dockerfile
 docker build -t serve-js-page-using-node .
@@ -498,3 +361,140 @@ npm run test:component
 npm run test:unit
 npm run test:component
 npm run start
+cd esercizi/microservices/HexToHslConverter
+npm run test:component
+cd ..
+ls
+cd RgbToCmykConverter
+npm run component:test
+npm run test:component
+cd ..
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+cd ..
+cd microservices/HslToHexConverter
+ls
+npm test:component
+npm run test:component
+cd ..
+docker-compose up
+cd CmykToHslConverter/
+npm start
+cd ..
+docker-compose up
+docker-compose up
+exit
+ls
+cd esercizi/microservices
+ls
+cd HexToRgbConverter
+ls
+npm run test:component
+docker-compose up
+ls
+docker build -t hex-rgb-converter
+docker build -t hex-rgb-converter .
+docker build -t hex-rgb-converter .
+cd ..
+docker-compose up
+docker-compose down
+docker-compose up
+docker-compose down
+docker-compose 
+docker-compose build
+docker-compose up
+docker-compose up
+docker-compose down
+docker-compose up
+docker-compose build
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+cd HexToRgbConverter
+docker build -t hex-to-rgb-converter .
+docker run -it hex-to-rgb-converter /bin/sh
+npm run dist
+cd ..
+docker-compose down
+docker-compose build
+docker-compose up
+cd ../../
+git status
+git add .
+git commit -m "aggiunta microservizio HexToRgbConverter"
+git push
+cd esercizi/microservices/HexToHslConverter
+ls
+npm run dist
+npm run start
+docker build -t hex-to-hsl-converter .
+npm install
+npm run dist
+npm run test:unit
+npm run test:component
+npm run start
+cd ..
+docker-compose up
+cd ..
+cd ..
+git add .
+git commit -m "aggiunta microservizio HexToHslConverter"
+git push
+docker-compose up
+cd esercizi/microservices
+docker-compose up
+cd RgbToCmykConverter/
+ls
+npm install
+npm run test:unit
+npm run test:unit
+npm run test:unit
+npm start
+npm start
+npm start
+cd ..
+ls
+cd RgbToCmykConverter/
+ls
+npm run dist
+cd ..
+cd ..
+cd ..
+git add .
+git commit -m "aggiunta microservizio RgbToCmykConverter"
+git push
+cd esercizi/microservices/HslToHexConverter
+ls
+npm install
+npm run dist
+npm run dist
+npm run test:unit
+npm start
+cd ..
+cd ..
+cd ..
+git add .
+git commit -m "aggiunta microservizio HslToHexConverter"
+git push
+cd esercizi/microservices/CmykToHslConverter
+ls
+npm install
+npm run dist
+npm run test:unit
+npm run component:test
+npm run test:component

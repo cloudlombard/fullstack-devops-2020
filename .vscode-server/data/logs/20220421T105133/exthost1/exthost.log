@@ -1,0 +1,21 @@
+[2022-04-21 10:51:53.387] [exthost] [info] Extension host with pid 3298 started
+[2022-04-21 10:51:53.390] [exthost] [error] Error: EEXIST: file already exists, open '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock'
+[2022-04-21 10:51:53.397] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-04-21 10:51:53.399] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': The pid 3403 appears to be gone.
+[2022-04-21 10:51:53.399] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Deleting a stale lock.
+[2022-04-21 10:51:53.413] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Lock acquired.
+[2022-04-21 10:51:53.891] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-04-21 10:51:54.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-21 10:51:54.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-21 10:51:54.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-21 10:51:54.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-21 10:51:55.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-21 10:51:55.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 10:51:55.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 10:51:55.335] [exthost] [info] Eager extensions activated
+[2022-04-21 10:51:55.955] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-21 10:52:32.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-21 10:53:05.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-21 10:53:05.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-21 10:53:05.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-21 10:53:05.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

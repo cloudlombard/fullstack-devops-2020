@@ -81,3 +81,36 @@
 	at Object.asDocumentSymbols (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:409074)
 	at /home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:335126
 	at async _.provideDocumentSymbols (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-04-21 10:37:38.735] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2022-04-21 10:37:38.735] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131201)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131150)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:117579)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403728)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:409074)
+	at /home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:335126
+	at async _.provideDocumentSymbols (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-04-21 10:37:39.515] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2022-04-21 10:37:39.515] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131201)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131150)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:117579)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403728)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403903)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403903)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:409074)
+	at /home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:335126
+	at async _.provideDocumentSymbols (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-04-21 10:37:39.910] [exthost] [error] [redhat.vscode-yaml] provider FAILED
+[2022-04-21 10:37:39.910] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131201)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:131150)
+	at new i (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:76:117579)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403728)
+	at H (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:403903)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:409074)
+	at /home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0/dist/extension.js:2:335126
+	at async _.provideDocumentSymbols (/home/vagrant/.vscode-server/bin/dfd34e8260c270da74b5c2d86d61aee4b6d56977/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)

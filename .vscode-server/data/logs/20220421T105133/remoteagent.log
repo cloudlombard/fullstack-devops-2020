@@ -1,0 +1,6 @@
+[2022-04-21 10:51:33.871] [remoteagent] [info] Extension host agent started.
+[2022-04-21 10:51:34.298] [remoteagent] [error] [127.0.0.1][b25af688][ManagementConnection] Unknown reconnection token (never seen).
+[2022-04-21 10:51:50.456] [remoteagent] [info] [127.0.0.1][25d7a365][ManagementConnection] New connection established.
+[2022-04-21 10:51:50.465] [remoteagent] [info] [127.0.0.1][e274671b][ExtensionHostConnection] New connection established.
+[2022-04-21 10:51:50.489] [remoteagent] [info] [127.0.0.1][e274671b][ExtensionHostConnection] <3298> Launched Extension Host Process.
+[2022-04-21 10:53:33.304] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
