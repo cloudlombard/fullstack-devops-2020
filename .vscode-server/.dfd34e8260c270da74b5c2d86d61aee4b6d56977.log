@@ -82,3 +82,5 @@ Extension host agent listening on 35067
 [10:10:30] No ptyHost heartbeat after 6 seconds
 [10:12:23] No ptyHost heartbeat after 6 seconds
 [10:13:52] No ptyHost heartbeat after 6 seconds
+IPC "File Watcher" crashed with exit code null and signal SIGSEGV
+[10:21:25] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV

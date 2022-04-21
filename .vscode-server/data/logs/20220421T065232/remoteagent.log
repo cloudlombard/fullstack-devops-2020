@@ -12,3 +12,4 @@
 [2022-04-21 10:10:30.411] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
 [2022-04-21 10:12:23.079] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
 [2022-04-21 10:13:52.186] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-21 10:21:25.082] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
