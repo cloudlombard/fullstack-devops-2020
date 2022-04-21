@@ -1,0 +1,6 @@
+FROM node:current-alpine
+COPY . .
+RUN npm install
+WORKDIR /API/dist/HexToRgbConverter/src
+EXPOSE 3000
+CMD ["node", "HttpServer.js"]

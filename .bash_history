@@ -1,43 +1,4 @@
 cd ..
-git pull
-cd esercizi
-..
-cd ..
-git pull
-cd ..
-cd ..
-cd esercizi
-ls
-cd /home
-ls
-cd vagrant
-ls
-cd esercizi
-ls
-git pull
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-cd ..
-git pull https://github.com/cloudlombard/fullstack-devops-2020.git
-exit
-git pull
-git pull git@github.com:cloudlombard/fullstack-devops-2020.git
-git status
-cd esercizi
-git status
-git init
-git pull
-git pull git@github.com:cloudlombard/fullstack-devops-2020.git
-git ..
-git exit
-ls
-git pull
-cd esercizi
-git pull
-git pull git@github.com:cloudlombard/fullstack-devops-2020.git
-ls
-ls
-cd ..
 git pull https://github.com/cloudlombard/fullstack-devops-2020.git
 git pull https://github.com/cloudlombard/fullstack-devops-2020.git
 cd esercizi
@@ -498,3 +459,42 @@ git push --set-upstream origin master
 git status
 vagrant exit
 exit
+git fetch
+git reset --hard HEAD
+git merge '@{u}'
+git merge
+git remote -v
+git merge origin
+git merge upstream
+ls
+cd esercizi/microservices
+ls
+cd ../..
+ls
+git merge
+git fetch
+git reset 
+git reset HEAD
+git merge 
+git merge master
+git status
+git checkout --
+ls
+cd esercizi
+ls
+cd microservices
+ls
+cd ../..
+git reset --hard
+ls
+cd esercizi
+cd microservices
+ls
+cd HexToRGB
+cd ..
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up

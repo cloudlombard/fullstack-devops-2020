@@ -1,0 +1,13 @@
+FROM node:alpine
+
+WORKDIR /usr/src/app
+
+COPY . .
+
+WORKDIR /usr/src/app/HexToRgbConverter
+
+RUN npm install
+
+EXPOSE 3000
+
+CMD ["node", "src/HttpServer.js"]

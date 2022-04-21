@@ -1,0 +1,11 @@
+[2022-04-19 15:14:48.349] [remoteagent] [info] Extension host agent started.
+[2022-04-19 15:14:48.882] [remoteagent] [info] [127.0.0.1][e8c54d41][ManagementConnection] New connection established.
+[2022-04-19 15:14:48.897] [remoteagent] [info] [127.0.0.1][400c9a89][ExtensionHostConnection] New connection established.
+[2022-04-19 15:14:48.903] [remoteagent] [info] [127.0.0.1][400c9a89][ExtensionHostConnection] <3476> Launched Extension Host Process.
+[2022-04-19 15:21:00.106] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-04-19 15:51:07.753] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-04-19 15:58:56.211] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-19 16:03:03.787] [remoteagent] [info] [127.0.0.1][e8c54d41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-19 16:03:03.943] [remoteagent] [info] [127.0.0.1][400c9a89][ExtensionHostConnection] <3476> Extension Host Process exited with code: 0, signal: null.
+[2022-04-19 16:03:03.944] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-19 16:08:03.945] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,31 @@
+version: '3'
+services:
+  reverse-proxy:
+    image: traefik
+    command: --api.insecure=true --providers.docker --providers.docker.exposedByDefault=false
+    restart: "no"
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+
+  cmyk_to_hsl:
+    build: CmykToHslConverter
+    restart: "no"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.cmyk_to_hsl.rule=PathPrefix(`/cmyk_to_hsl`)"
+      - "traefik.http.routers.cmyk_to_hsl.middlewares=cmyk_to_hsl-stripprefix"
+      - "traefik.http.services.cmyk_to_hsl.loadbalancer.server.port=3000"
+      - "traefik.http.middlewares.cmyk_to_hsl-stripprefix.stripprefix.prefixes=/cmyk_to_hsl"
+      
+#  <microservice-example-name>:
+#    build: <microservice-example-name>
+#    restart: "no"
+#    labels:
+#      - "traefik.enable=true"
+#      - "traefik.http.routers.<microservice-example-name>.rule=PathPrefix(`/<microservice-example-name>`)"
+#      - "traefik.http.routers.<microservice-example-name>.middlewares=<microservice-example-name>-stripprefix"
+#      - "traefik.http.services.<microservice-example-name>.loadbalancer.server.port=3000"
+#      - "traefik.http.middlewares.<microservice-example-name>-stripprefix.stripprefix.prefixes=/<microservice-example-name>"

@@ -1,0 +1,19 @@
+[2022-04-19 10:53:17.165] [exthost] [info] Extension host with pid 3665 started
+[2022-04-19 10:53:17.175] [exthost] [error] Error: EEXIST: file already exists, open '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock'
+[2022-04-19 10:53:17.177] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-04-19 10:53:17.178] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': The pid 4989 appears to be gone.
+[2022-04-19 10:53:17.178] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Deleting a stale lock.
+[2022-04-19 10:53:17.185] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Lock acquired.
+[2022-04-19 10:53:17.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-19 10:53:17.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-19 10:53:17.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-19 10:53:17.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-19 10:53:17.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-19 10:53:17.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-19 10:53:17.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-19 10:53:17.960] [exthost] [info] Eager extensions activated
+[2022-04-19 10:53:38.810] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-04-19 10:53:39.526] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-19 11:05:19.322] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-19 11:05:19.323] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-19 11:05:19.420] [exthost] [info] Extension host with pid 3665 exiting with code 0

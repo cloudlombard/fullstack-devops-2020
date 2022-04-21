@@ -1,0 +1,21 @@
+[2022-04-19 09:04:16.850] [exthost] [info] Extension host with pid 3547 started
+[2022-04-19 09:04:16.877] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Lock acquired.
+[2022-04-19 09:04:17.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-04-19 09:04:17.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-19 09:04:17.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-19 09:04:17.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-19 09:04:18.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-19 09:04:18.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-19 09:04:19.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-19 09:04:19.641] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-19 09:04:19.676] [exthost] [info] Eager extensions activated
+[2022-04-19 09:08:45.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-19 09:08:45.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-19 09:09:07.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-19 09:09:07.787] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-19 09:47:05.791] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-04-19 09:47:06.279] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-19 09:47:09.259] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-04-19 09:47:25.550] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-19 09:47:25.551] [exthost] [info] Lock '/home/vagrant/.vscode-server/data/User/workspaceStorage/d7ae032ce7fc91043c916e607c033df0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-19 09:47:25.705] [exthost] [info] Extension host with pid 3547 exiting with code 0

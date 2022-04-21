@@ -1,0 +1,23 @@
+[2022-04-19 09:04:14.626] [remoteagent] [info] Extension host agent started.
+[2022-04-19 09:04:14.999] [remoteagent] [info] [127.0.0.1][c3f440fe][ManagementConnection] New connection established.
+[2022-04-19 09:04:15.001] [remoteagent] [info] [127.0.0.1][d8cd00fa][ExtensionHostConnection] New connection established.
+[2022-04-19 09:04:15.010] [remoteagent] [info] [127.0.0.1][d8cd00fa][ExtensionHostConnection] <3547> Launched Extension Host Process.
+[2022-04-19 09:21:14.168] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-04-19 09:47:02.178] [remoteagent] [info] Getting Manifest... redhat.vscode-yaml
+[2022-04-19 09:47:02.288] [remoteagent] [info] Installing extension: redhat.vscode-yaml
+[2022-04-19 09:47:04.961] [remoteagent] [info] Downloaded extension: redhat.vscode-yaml /home/vagrant/.vscode-server/data/CachedExtensionVSIXs/redhat.vscode-yaml-1.6.0
+[2022-04-19 09:47:05.273] [remoteagent] [info] Extracted extension to /home/vagrant/.vscode-server/extensions/.d1d17149-43a2-49bb-ae19-9cbadc6f4c53: redhat.vscode-yaml
+[2022-04-19 09:47:05.280] [remoteagent] [info] Renamed to /home/vagrant/.vscode-server/extensions/redhat.vscode-yaml-1.6.0
+[2022-04-19 09:47:05.284] [remoteagent] [info] Extracting completed. redhat.vscode-yaml
+[2022-04-19 09:47:05.286] [remoteagent] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-04-19 09:47:25.577] [remoteagent] [info] [127.0.0.1][c3f440fe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-19 09:47:25.744] [remoteagent] [info] [127.0.0.1][d8cd00fa][ExtensionHostConnection] <3547> Extension Host Process exited with code: 0, signal: null.
+[2022-04-19 09:47:25.745] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-04-19 09:47:42.904] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-04-19 09:47:42.904] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-04-19 09:47:43.305] [remoteagent] [info] [127.0.0.1][fbc9a96b][ExtensionHostConnection] New connection established.
+[2022-04-19 09:47:43.305] [remoteagent] [info] [127.0.0.1][38b2324c][ManagementConnection] New connection established.
+[2022-04-19 09:47:43.310] [remoteagent] [info] [127.0.0.1][fbc9a96b][ExtensionHostConnection] <4989> Launched Extension Host Process.
+[2022-04-19 09:49:13.037] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-19 09:52:42.906] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-04-19 09:54:56.314] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

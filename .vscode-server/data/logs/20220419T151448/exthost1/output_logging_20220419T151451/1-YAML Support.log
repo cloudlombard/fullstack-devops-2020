@@ -1,0 +1,3 @@
+[Error - 3:14:59 PM] Request textDocument/foldingRange failed.
+  Message: Request textDocument/foldingRange failed with message: Cannot read properties of null (reading 'type')
+  Code: -32603 
