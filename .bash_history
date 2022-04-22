@@ -1,8 +1,3 @@
-docker build -t serve-js-page-using-node .
-nano Dockerfile
-nano .dockerignore
-rm .dockerignore
-docker build -t serve-js-page-using-node .
 exit
 docker build -t serve-js-page-using-node .
 cd esercizi
@@ -498,3 +493,8 @@ git push -f
 docker-compose up
 cd esercizi/microservices
 docker-compose up
+git status
+git add .
+git commit -m "aggiunta documentazione per l'uso dei microservizi"
+git push
+exit

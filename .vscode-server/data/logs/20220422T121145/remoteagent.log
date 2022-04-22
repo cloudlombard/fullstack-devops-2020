@@ -1,0 +1,12 @@
+[2022-04-22 12:11:45.578] [remoteagent] [info] Extension host agent started.
+[2022-04-22 12:11:46.504] [remoteagent] [info] [127.0.0.1][c07e2681][ManagementConnection] New connection established.
+[2022-04-22 12:11:46.513] [remoteagent] [info] [127.0.0.1][9d38ad71][ExtensionHostConnection] New connection established.
+[2022-04-22 12:11:46.522] [remoteagent] [info] [127.0.0.1][9d38ad71][ExtensionHostConnection] <3290> Launched Extension Host Process.
+[2022-04-22 12:20:08.818] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-04-22 12:54:36.194] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-22 13:01:54.186] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-22 13:02:49.891] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-22 13:04:51.021] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-22 13:10:49.395] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-22 13:59:54.511] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[2022-04-22 14:04:11.607] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

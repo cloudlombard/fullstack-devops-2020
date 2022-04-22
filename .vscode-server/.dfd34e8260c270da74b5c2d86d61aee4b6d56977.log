@@ -5,14 +5,13 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:35089 (IPv4)
-Extension host agent listening on 35089
+Server bound to 127.0.0.1:39739 (IPv4)
+Extension host agent listening on 39739
 
-[10:51:33] Extension host agent started.
-[10:51:34] [127.0.0.1][b25af688][ManagementConnection] Unknown reconnection token (never seen).
-[10:51:50] [127.0.0.1][25d7a365][ManagementConnection] New connection established.
-[10:51:50] [127.0.0.1][e274671b][ExtensionHostConnection] New connection established.
-[10:51:50] [127.0.0.1][e274671b][ExtensionHostConnection] <3298> Launched Extension Host Process.
+[12:11:45] Extension host agent started.
+[12:11:46] [127.0.0.1][c07e2681][ManagementConnection] New connection established.
+[12:11:46] [127.0.0.1][9d38ad71][ExtensionHostConnection] New connection established.
+[12:11:46] [127.0.0.1][9d38ad71][ExtensionHostConnection] <3290> Launched Extension Host Process.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
   'wget --version > /dev/null\n' +
@@ -73,4 +72,13 @@ Extension host agent listening on 35089
     'fi\n' +
     'exit 0'
 ]
-[10:53:33] No ptyHost heartbeat after 6 seconds
+IPC "File Watcher" crashed with exit code null and signal SIGSEGV
+[12:20:08] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[12:54:36] No ptyHost heartbeat after 6 seconds
+[13:01:54] No ptyHost heartbeat after 6 seconds
+[13:02:49] No ptyHost heartbeat after 6 seconds
+[13:04:51] No ptyHost heartbeat after 6 seconds
+[13:10:49] No ptyHost heartbeat after 6 seconds
+IPC "File Watcher" crashed with exit code null and signal SIGSEGV
+[13:59:54] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+[14:04:11] No ptyHost heartbeat after 6 seconds

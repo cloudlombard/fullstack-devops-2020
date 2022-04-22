@@ -1,0 +1,11 @@
+FROM node:alpine
+
+WORKDIR /usr/src/app
+
+RUN npm run dist
+
+COPY ./dist .
+
+EXPOSE 3000
+
+CMD ["node", "RgbToHslConverter/src/HttpServer.js"]

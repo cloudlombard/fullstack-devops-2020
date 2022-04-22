@@ -1,0 +1,17 @@
+FROM node:alpine
+
+WORKDIR /usr/src/app
+
+COPY ./commons .
+
+RUN ls
+
+WORKDIR /usr/src/app/RgbToHslConverter
+
+COPY ./RgbToHslConverter .
+
+RUN ls
+
+EXPOSE 3000
+
+CMD ["node", "src/HttpServer.js"]
